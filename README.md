@@ -1,6 +1,6 @@
-# Coders Hub
+# Coders pro
 
-Coders Hub is a collaborative coding platform where multiple users can join a shared room, edit code together in real time, chat, and use AI assistance. The project combines a React + Vite frontend with a Node.js + Express + Socket.IO backend and MongoDB persistence.
+Coders pro is a collaborative coding platform where multiple users can join a shared room, edit code together in real time, chat, and use AI assistance. The project combines a React + Vite frontend with a Node.js + Express + Socket.IO backend and MongoDB persistence.
 
 ## Overview
 
