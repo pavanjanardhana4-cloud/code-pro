@@ -36,7 +36,7 @@ This app includes:
 ## Project Structure
 
 ```text
-coders-hub/
+coders-pro/
 ├── backend/
 │   ├── src/
 │   │   ├── auth/
